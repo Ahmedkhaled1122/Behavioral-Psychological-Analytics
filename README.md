@@ -1,7 +1,7 @@
 # Behavioral & Psychological Analytics Dashboard
 
 ## 📊 Dashboard View
-![Behavioral Analytics Dashboard](dashboard.png)
+![Behavioral Analytics Dashboard](Dashboard.png)
 
 ## 📌 Project Overview
 This project features an interactive Power BI dashboard designed to analyze and visualize complex behavioral metrics and psychological indicators. The core objective is to measure the impact of smartphone addiction on psychological distress, overall well-being, and quality of life.
